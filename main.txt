@@ -1,2 +1,6 @@
-this is master modify program。
-modify 07 11
+#inclide"stdio.h"
+void main()
+{
+	printf("hello world!");
+}
+
